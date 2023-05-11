@@ -15,9 +15,9 @@
 
 - 👋 Hi, I’m @azer0ne
 - 👀 I’m interested in Tech and Sports
-- 🌱 I’m currently learning Python and Machine Learning
+- 🌱 I’m currently learning Swift and Python
 - 💞️ I’m looking to collaborate on Machine Learning
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abiyyu-reza-firmansyah/)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-abiyyu-reza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abiyyu-reza-firmansyah/)
 
 <!---
 azer0ne/azer0ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
