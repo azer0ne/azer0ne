@@ -13,7 +13,7 @@
   </h1>
 </div>
 
-- 👋 Hi, I’m @azer0ne
+- 👋 Hi, I’m @azer0ne or usually called Arez or Reza
 - 👀 I’m interested in Tech and Sports
 - 🌱 I’m currently learning Swift and Python
 - 💞️ I’m looking to collaborate on Machine Learning
